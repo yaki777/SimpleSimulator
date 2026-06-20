@@ -1,0 +1,6 @@
+{
+  "name": "Cosplay Multi-Agent Chat",
+  "description": "A Telegram-styled mobile-first web app for multi-agent text-based role-playing (Cosplay).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
